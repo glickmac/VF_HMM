@@ -1,0 +1,319 @@
+PF12843	QSregVF_b	Putative quorum-sensing-regulated virulence factor				
+PF13769	Virulence_fact	Virulence factor				
+PF03631	Virul_fac_BrkB	Virulence factor BrkB				
+PF05833	FbpA	Fibronectin-binding protein A N-terminus (FbpA)				
+PF07520	SrfB	Virulence factor SrfB				
+PF10139	Virul_Fac	Putative bacterial virulence factor				
+PF10144	SMP_2	Bacterial virulence factor haemolysin				
+PF05932	CesT	Tir chaperone protein (CesT) family				
+PF07201	HrpJ	HrpJ-like domain				
+PF09025	T3SS_needle_reg	YopR, type III needle-polymerisation regulator				
+PF02370	M	M protein repeat				
+PF03116	NQR2_RnfD_RnfE	NQR2, RnfD, RnfE family				
+PF04012	PspA_IM30	PspA/IM30 family				
+PF04402	SIMPL	Protein of unknown function (DUF541)				
+PF04877	Hairpins	HrpZ				
+PF05616	Neisseria_TspB	Neisseria meningitidis TspB protein				
+PF05627	AvrRpt-cleavage	Cleavage site for pathogenic type III effector avirulence factor Avr				
+PF05704	Caps_synth	Capsular polysaccharide synthesis protein				
+PF05925	IpgD	Enterobacterial virulence protein IpgD				
+PF05946	TcpA	Toxin-coregulated pilus subunit TcpA				
+PF06776	IalB	Invasion associated locus B (IalB) protein				
+PF06901	FrpC	RTX iron-regulated protein FrpC				
+PF07212	Hyaluronidase_1	Hyaluronidase protein (HylP)				
+PF07461	NADase_NGA	Nicotine adenine dinucleotide glycohydrolase (NADase)				
+PF09589	HrpA_pilin	HrpA pilus formation protein				
+PF10988	DUF2807	Putative auto-transporter adhesin, head GIN domain				
+PF11036	YqgB	Virulence promoting factor				
+PF11434	CHIPS	Chemotaxis-inhibiting protein CHIPS				
+PF11592	AvrPto	Central core of the bacterial effector protein AvrPto				
+PF11725	AvrE	Pathogenicity factor				
+PF11924	IAT_beta	Inverse autotransporter, beta-domain				
+PF12111	PNPase_C	Polyribonucleotide phosphorylase C terminal				
+PF12182	DUF3642	Bacterial lipoprotein				
+PF12189	VirE1	Single-strand DNA-binding protein				
+PF12192	CBP	Fungal calcium binding protein				
+PF12262	Lipase_bact_N	Bacterial virulence factor lipase N-terminal				
+PF12378	CytadhesinP1	Trypsin-sensitive surface-exposed protein				
+PF12467	CMV_1a	Cucumber mosaic virus 1a protein family				
+PF12503	CMV_1a_C	Cucumber mosaic virus 1a protein C terminal				
+PF12563	Hemolysin_N	Hemolytic toxin N terminal				
+PF12951	PATR	Passenger-associated-transport-repeat				
+PF13652	QSregVF	Putative quorum-sensing-regulated virulence factor				
+PF14496	NEL	C-terminal novel E3 ligase, LRR-interacting				
+PF14856	Hce2	Pathogen effector; putative necrosis-inducing factor				
+PF15284	PAGK	Phage-encoded virulence factor				
+PF16849	Glyco_transf_88	Glycosyltransferase family 88				
+PF05792	Candida_ALS	Candida agglutinin-like (ALS)				
+PF06316	Ail_Lom	Enterobacterial Ail/Lom protein				
+PF06812	ImpA_N	ImpA, N-terminal, type VI secretion system				
+PF07768	PVL_ORF50	PVL ORF-50-like family				
+PF09599	IpaC_SipC	Salmonella-Shigella invasin protein C (IpaC_SipC)				
+PF10462	Peptidase_M66	Peptidase M66				
+PF10824	T7SS_ESX_EspC	Excreted virulence factor EspC, type VII ESX diderm				
+PF11182	AlgF	Alginate O-acetyl transferase AlgF				
+PF11846	Wzy_C_2	Virulence factor membrane-bound polymerase, C-terminal				
+PF12373	Msg2_C	Major surface glycoprotein 2 C terminal				
+PF16376	fragilysinNterm	N-terminal domain of fragilysin				
+PF17323	ToxS	Trans-membrane regulatory protein ToxS				
+PF17456	TcpS	Toxin-coregulated pilus protein S				
+PF00027	cNMP_binding	Cyclic nucleotide-binding domain				
+PF00082	Peptidase_S8	Subtilase family				
+PF00126	HTH_1	Bacterial regulatory helix-turn-helix protein, lysR family				
+PF01408	GFO_IDH_MocA	Oxidoreductase family, NAD-binding Rossmann fold				
+PF03466	LysR_substrate	LysR substrate binding domain				
+PF06013	WXG100	Proteins of 100 residues with WXG				
+PF00196	GerE	Bacterial regulatory proteins, luxR family				
+PF00263	Secretin	Bacterial type II and III secretion system protein				
+PF02661	Fic	Fic/DOC family				
+PF03534	SpvB	Salmonella virulence plasmid 65kDa B protein				
+PF00006	ATP-synt_ab	ATP synthase alpha/beta family, nucleotide-binding domain				
+PF00009	GTP_EFTU	Elongation factor Tu GTP binding domain				
+PF00072	Response_reg	Response regulator receiver domain				
+PF00083	Sugar_tr	Sugar (and other) transporter				
+PF00133	tRNA-synt_1	tRNA synthetases class I (I, L, M and V)				
+PF00149	Metallophos	Calcineurin-like phosphoesterase				
+PF00151	Lipase	Lipase				
+PF00165	HTH_AraC	Bacterial regulatory helix-turn-helix proteins, AraC family				
+PF00176	SNF2_N	SNF2 family N-terminal domain				
+PF00226	DnaJ	DnaJ domain				
+PF00271	Helicase_C	Helicase conserved C-terminal domain				
+PF00295	Glyco_hydro_28	Glycosyl hydrolases family 28				
+PF00395	SLH	S-layer homology domain				
+PF00400	WD40	WD domain, G-beta repeat				
+PF00440	TetR_N	Bacterial regulatory proteins, tetR family				
+PF00483	NTP_transferase	Nucleotidyl transferase				
+PF00486	Trans_reg_C	Transcriptional regulatory protein, C terminal				
+PF00497	SBP_bac_3	Bacterial extracellular solute-binding proteins, family 3				
+PF00505	HMG_box	HMG (high mobility group) box				
+PF00512	HisKA	His Kinase A (phospho-acceptor) domain				
+PF00533	BRCT	BRCA1 C Terminus (BRCT) domain				
+PF00534	Glycos_transf_1	Glycosyl transferases group 1				
+PF00544	Pec_lyase_C	Pectate lyase				
+PF00589	Phage_integrase	Phage integrase family				
+PF00593	TonB_dep_Rec	TonB dependent receptor				
+PF00632	HECT	HECT-domain (ubiquitin-transferase)				
+PF00652	Ricin_B_lectin	Ricin-type beta-trefoil lectin domain				
+PF00679	EFG_C	Elongation factor G C-terminus				
+PF00823	PPE	PPE family				
+PF00903	Glyoxalase	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily				
+PF00989	PAS	PAS fold				
+PF00990	GGDEF	Diguanylate cyclase, GGDEF domain				
+PF01095	Pectinesterase	Pectinesterase				
+PF01381	HTH_3	Helix-turn-helix				
+PF01385	OrfB_IS605	Probable transposase				
+PF01391	Collagen	Collagen triple helix repeat (20 copies)				
+PF01447	Peptidase_M4	Thermolysin metallopeptidase, catalytic domain				
+PF01476	LysM	LysM domain				
+PF01485	IBR	IBR domain, a half RING-finger domain				
+PF01554	MatE	MatE				
+PF01618	MotA_ExbB	MotA/TolQ/ExbB proton channel family				
+PF01627	Hpt	Hpt domain				
+PF01739	CheR	CheR methyltransferase, SAM binding domain				
+PF01943	Polysacc_synt	Polysaccharide biosynthesis protein				
+PF01966	HD	HD domain				
+PF02195	ParBc	ParB-like nuclease domain				
+PF02311	AraC_binding	AraC-like ligand binding domain				
+PF02415	Chlam_PMP	Chlamydia polymorphic membrane protein (Chlamydia_PMP) repeat				
+PF02463	SMC_N	RecF/RecN/SMC N terminal domain				
+PF02470	MlaD	MlaD protein				
+PF02518	HATPase_c	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase				
+PF02534	T4SS-DNA_transf	Type IV secretory system Conjugative DNA transfer				
+PF02868	Peptidase_M4_C	Thermolysin metallopeptidase, alpha-helical domain				
+PF02874	ATP-synt_ab_N	ATP synthase alpha/beta family, beta-barrel domain				
+PF02902	Peptidase_C48	Ulp1 protease family, C-terminal catalytic domain				
+PF03023	MVIN	MviN-like protein				
+PF03130	HEAT_PBS	PBS lyase HEAT-like repeat				
+PF03144	GTP_EFTU_D2	Elongation factor Tu domain 2				
+PF03405	FA_desaturase_2	Fatty acid desaturase				
+PF03413	PepSY	Peptidase propeptide and YPEB domain				
+PF03421	Acetyltransf_14	YopJ Serine/Threonine acetyltransferase				
+PF03496	ADPrib_exo_Tox	ADP-ribosyltransferase exoenzyme				
+PF03797	Autotransporter	Autotransporter beta-domain				
+PF03958	Secretin_N	Bacterial type II/III secretion system short domain				
+PF04014	MazE_antitoxin	Antidote-toxin recognition MazE, bacterial antitoxin				
+PF04138	GtrA	GtrA-like protein				
+PF04151	PPC	Bacterial pre-peptidase C-terminal domain				
+PF04230	PS_pyruv_trans	Polysaccharide pyruvyl transferase				
+PF04337	DUF480	Protein of unknown function, DUF480				
+PF04393	DUF535	Protein of unknown function (DUF535)				
+PF04488	Gly_transf_sug	Glycosyltransferase sugar-binding region containing DXD motif				
+PF04977	DivIC	Septum formation initiator				
+PF05048	NosD	Periplasmic copper-binding protein (NosD)				
+PF05345	He_PIG	Putative Ig domain				
+PF05593	RHS_repeat	RHS Repeat				
+PF05638	T6SS_HCP	Type VI secretion system effector, Hcp				
+PF05670	DUF814	Domain of unknown function (DUF814)				
+PF06011	TRP	Transient receptor potential (TRP) ion channel				
+PF06057	VirJ	Bacterial virulence protein (VirJ)				
+PF06100	MCRA	MCRA family				
+PF06103	DUF948	Bacterial protein of unknown function (DUF948)				
+PF06183	DinI	DinI-like family				
+PF06227	Poxvirus	dsDNA Poxvirus				
+PF06269	DUF1029	Protein of unknown function (DUF1029)				
+PF06574	FAD_syn	FAD synthetase				
+PF07282	OrfB_Zn_ribbon	Putative transposase DNA-binding domain				
+PF07504	FTP	Fungalysin/Thermolysin Propeptide Motif				
+PF07581	Glug	The GLUG motif				
+PF07591	PT-HINT	Pretoxin HINT domain				
+PF07602	DUF1565	Protein of unknown function (DUF1565)				
+PF07691	PA14	PA14 domain				
+PF07695	7TMR-DISM_7TM	7TM diverse intracellular signalling				
+PF07715	Plug	TonB-dependent Receptor Plug Domain				
+PF07819	PGAP1	PGAP1-like protein				
+PF08232	Striatin	Striatin family				
+PF08447	PAS_3	PAS fold				
+PF08448	PAS_4	PAS fold				
+PF08712	Nfu_N	Scaffold protein Nfu/NifU N terminal				
+PF09397	Ftsk_gamma	Ftsk gamma domain				
+PF09479	Flg_new	Listeria-Bacteroides repeat domain (List_Bact_rpt)				
+PF09827	CRISPR_Cas2	CRISPR associated protein Cas2				
+PF10282	Lactonase	Lactonase, 7-bladed beta-propeller				
+PF10379	nec1	Virulence protein nec1				
+PF11102	YjbF	Group 4 capsule polysaccharide lipoprotein gfcB, YjbF				
+PF11887	Mce4_CUP1	Cholesterol uptake porter CUP1 of Mce4, putative				
+PF11962	Peptidase_G2	Peptidase_G2, IMC autoproteolytic cleavage domain				
+PF12255	TcdB_toxin_midC	Insecticide toxin TcdB middle/C-terminal region				
+PF12256	TcdB_toxin_midN	Insecticide toxin TcdB middle/N-terminal region				
+PF12323	HTH_OrfB_IS605	Helix-turn-helix domain				
+PF12541	DUF3737	Protein of unknown function (DUF3737)				
+PF12708	Pectate_lyase_3	Pectate lyase superfamily protein				
+PF12738	PTCB-BRCT	twin BRCT domain				
+PF12802	MarR_2	MarR family				
+PF12833	HTH_18	Helix-turn-helix domain				
+PF12860	PAS_7	PAS fold				
+PF12965	DUF3854	Domain of unknown function (DUF3854)				
+PF13088	BNR_2	BNR repeat-like domain				
+PF13175	AAA_15	AAA ATPase domain				
+PF13176	TPR_7	Tetratricopeptide repeat				
+PF13185	GAF_2	GAF domain				
+PF13188	PAS_8	PAS domain				
+PF13229	Beta_helix	Right handed beta helix region				
+PF13302	Acetyltransf_3	Acetyltransferase (GNAT) domain				
+PF13304	AAA_21	AAA domain, putative AbiEii toxin, Type IV TA system				
+PF13374	TPR_10	Tetratricopeptide repeat				
+PF13385	Laminin_G_3	Concanavalin A-like lectin/glucanases superfamily				
+PF13424	TPR_12	Tetratricopeptide repeat				
+PF13426	PAS_9	PAS domain				
+PF13432	TPR_16	Tetratricopeptide repeat				
+PF13439	Glyco_transf_4	Glycosyltransferase Family 4				
+PF13440	Polysacc_synt_3	Polysaccharide biosynthesis protein				
+PF13505	OMP_b-brl	Outer membrane protein beta-barrel domain				
+PF13509	S1_2	S1 domain				
+PF13517	VCBS	Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella				
+PF13579	Glyco_trans_4_4	Glycosyl transferase 4-like domain				
+PF13614	AAA_31	AAA domain				
+PF13620	CarboxypepD_reg	Carboxypeptidase regulatory-like domain				
+PF13646	HEAT_2	HEAT repeats				
+PF13673	Acetyltransf_10	Acetyltransferase (GNAT) domain				
+PF13692	Glyco_trans_1_4	Glycosyl transferases group 1				
+PF13717	zinc_ribbon_4	zinc-ribbon domain				
+PF14246	TetR_C_7	AefR-like transcriptional repressor, C-terminal region				
+PF14262	Cthe_2159	Carbohydrate-binding domain-containing protein Cthe_2159				
+PF14559	TPR_19	Tetratricopeptide repeat				
+PF14592	Chondroitinas_B	Chondroitinase B				
+PF14667	Polysacc_synt_C	Polysaccharide biosynthesis C-terminal domain				
+PF14860	DrrA_P4M	DrrA phosphatidylinositol 4-phosphate binding domain				
+PF14870	PSII_BNR	Photosynthesis system II assembly factor YCF48				
+PF15731	MqsA_antitoxin	Antitoxin component of bacterial toxin-antitoxin system, MqsA				
+PF16640	Big_3_5	Bacterial Ig-like domain (group 3)				
+PF00325	Crp	Bacterial regulatory proteins, crp family				
+PF01047	MarR	MarR family				
+PF03212	Pertactin	Pertactin				
+PF04792	LcrV	V antigen (LcrV) protein				
+PF00128	Alpha-amylase	Alpha amylase, catalytic domain				
+PF00254	FKBP_C	FKBP-type peptidyl-prolyl cis-trans isomerase				
+PF00452	Bcl-2	Apoptosis regulator proteins, Bcl-2 family				
+PF00728	Glyco_hydro_20	Glycosyl hydrolase family 20, catalytic domain				
+PF00753	Lactamase_B	Metallo-beta-lactamase superfamily				
+PF00756	Esterase	Putative esterase				
+PF01183	Glyco_hydro_25	Glycosyl hydrolases family 25				
+PF01346	FKBP_N	Domain amino terminal to FKBP-type peptidyl-prolyl isomerase				
+PF01473	CW_binding_1	Putative cell wall binding repeat				
+PF01551	Peptidase_M23	Peptidase family M23				
+PF01975	SurE	Survival protein SurE				
+PF02225	PA	PA domain				
+PF02876	Stap_Strp_tox_C	Staphylococcal/Streptococcal toxin, beta-grasp domain				
+PF02922	CBM_48	Carbohydrate-binding module 48 (Isoamylase N-terminal domain)				
+PF03067	LPMO_10	Lytic polysaccharide mono-oxygenase, cellulose-degrading				
+PF03551	PadR	Transcriptional regulator PadR-like family				
+PF03714	PUD	Bacterial pullanase-associated domain				
+PF05480	Staph_haemo	Staphylococcus haemolytic protein				
+PF06280	fn3_5	Fn3-like domain				
+PF06393	BID	BH3 interacting domain (BID)				
+PF07980	SusD_RagB	SusD family				
+PF08668	HDOD	HDOD domain				
+PF09059	TyeA	TyeA				
+PF09199	SSL_OB	Staphylococcal superantigen-like OB-fold domain				
+PF09312	SurA_N	SurA N-terminal domain				
+PF11099	M11L	Apoptosis regulator M11L like				
+PF13585	CHU_C	C-terminal domain of CHU protein family				
+PF13616	Rotamase_3	PPIC-type PPIASE domain				
+PF14131	DUF4298	Domain of unknown function (DUF4298)				
+PF14322	SusD-like_3	Starch-binding associating with outer membrane				
+PF14531	Kinase-like	Kinase-like				
+PF15645	Tox-PLDMTX	Dermonecrotoxin of the Papain-like fold				
+PF00560	LRR_1	Leucine Rich Repeat				
+PF00813	FliP	FliP family				
+PF01258	zf-dskA_traR	Prokaryotic dksA/traR C4-type zinc finger				
+PF01278	Omptin	Omptin family				
+PF01311	Bac_export_1	Bacterial export proteins, family 1				
+PF01312	Bac_export_2	FlhB HrpN YscU SpaS Family				
+PF01323	DSBA	DSBA-like thioredoxin domain				
+PF01364	Peptidase_C25	Peptidase family C25				
+PF01462	LRRNT	Leucine rich repeat N-terminal domain				
+PF01463	LRRCT	Leucine rich repeat C-terminal domain				
+PF01816	LRV	Leucine rich repeat variant				
+PF02090	SPAM	Salmonella surface presentation of antigen gene type M protein				
+PF02216	B	B domain				
+PF02308	MgtC	MgtC family				
+PF02382	RTX	RTX N-terminal domain				
+PF02388	FemAB	FemAB family				
+PF02510	SPAN	Surface presentation of antigens protein				
+PF02794	HlyC	RTX toxin acyltransferase family				
+PF02821	Staphylokinase	Staphylokinase/Streptokinase family				
+PF02917	Pertussis_S1	Pertussis toxin, subunit 1				
+PF02918	Pertussis_S2S3	Pertussis toxin, subunit 2 and 3, C-terminal domain				
+PF02954	HTH_8	Bacterial regulatory protein, Fis family				
+PF03347	TDH	Vibrio thermostable direct hemolysin				
+PF03440	APT	Aerolysin/Pertussis toxin (APT) domain				
+PF03472	Autoind_bind	Autoinducer binding domain				
+PF03495	Binary_toxB	Clostridial binary toxin B/anthrax toxin PA Ca-binding domain				
+PF03505	Clenterotox	Clostridium enterotoxin				
+PF03538	VRP1	Salmonella virulence plasmid 28.1kDa A protein				
+PF03543	Peptidase_C58	Yersinia/Haemophilus virulence surface antigen				
+PF03545	YopE	Yersinia virulence determinant (YopE)				
+PF03549	Tir_receptor_M	Translocated intimin receptor (Tir) intimin-binding domain				
+PF03785	Peptidase_C25_C	Peptidase family C25, C terminal ig-like domain				
+PF04397	LytTR	LytTr DNA-binding domain				
+PF04647	AgrB	Accessory gene regulator B				
+PF05101	VirB3	Type IV secretory pathway, VirB3-like protein				
+PF05261	Tra_M	TraM protein, DNA-binding				
+PF05321	HHA	Haemolysin expression modulating protein				
+PF05364	SecIII_SopE_N	Salmonella type III secretion SopE effector N-terminus				
+PF05547	Peptidase_M6	Immune inhibitor A peptidase M6				
+PF05594	Fil_haemagg	Haemagluttinin repeat				
+PF05686	Glyco_transf_90	Glycosyl transferase family 90				
+PF06321	P_gingi_FimA	Major fimbrial subunit protein (FimA)				
+PF07487	SopE_GEF	SopE GEF domain				
+PF07489	Tir_receptor_C	Translocated intimin receptor (Tir) C-terminus				
+PF07490	Tir_receptor_N	Translocated intimin receptor (Tir) N-terminus				
+PF07723	LRR_2	Leucine Rich Repeat				
+PF07725	LRR_3	Leucine Rich Repeat				
+PF08017	Fibrinogen_BP	Fibrinogen binding protein				
+PF08191	LRR_adjacent	LRR adjacent				
+PF08263	LRRNT_2	Leucine rich repeat N-terminal domain				
+PF09052	SipA	Salmonella invasion protein A				
+PF09053	CagZ	CagZ				
+PF09392	T3SS_needle_F	Type III secretion needle MxiH, YscF, SsaG, EprI, PscF, EscF				
+PF09643	YopX	YopX protein				
+PF09864	MliC	Membrane-bound lysozyme-inhibitor of c-type lysozyme				
+PF10661	EssA	WXG100 protein secretion system (Wss), protein EssA				
+PF13463	HTH_27	Winged helix DNA-binding domain				
+PF13516	LRR_6	Leucine Rich repeat				
+PF13545	HTH_Crp_2	Crp-like helix-turn-helix domain				
+PF13855	LRR_8	Leucine rich repeat				
+PF14102	Caps_synth_CapC	Capsule biosynthesis CapC				
+PF14343	PrcB_C	PrcB C-terminal				
+PF15495	Fimbrillin_C	Major fimbrial subunit protein type IV, Fimbrillin, C-terminal				
+PF16168	AIDA	Adhesin of bacterial autotransporter system, probable stalk				
